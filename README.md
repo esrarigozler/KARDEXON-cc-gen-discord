@@ -1,0 +1,2 @@
+# KARDEXON-cc-gen-discord
+KARDEXON V1 DİSCORD BOT
